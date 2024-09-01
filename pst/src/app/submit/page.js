@@ -91,7 +91,7 @@ export default function SubmitContentPage() {
               <label htmlFor="file" className="block mb-1">File Upload</label>
               <input type="file" id="file" name="file" onChange={handleFileChange} className="w-full p-2 border rounded" required />
             </div>
-            <button type="submit" className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Submit - can't work</button>
+            <button type="submit" className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Submit - can&apos;t work</button>
           </form>
         </div>
       </div>

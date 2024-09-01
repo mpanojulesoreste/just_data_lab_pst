@@ -10,7 +10,7 @@ export default function Home() {
       </header>
       <main className="flex-grow flex flex-col justify-center items-center text-white px-4">
         <div className="bg-black bg-opacity-50 p-6 rounded-lg w-full max-w-4xl">
-          <h2 className="text-3xl font-bold mb-4 text-center">Welcome to Ida B. Wells Just Data Lab's Timeline and Archive for the Princeton Solidarity for Palestine</h2>
+          <h2 className="text-3xl font-bold mb-4 text-center">Welcome to Ida B. Wells Just Data Lab&apos;s Timeline and Archive for the Princeton Solidarity for Palestine</h2>
           <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
             <Link href="/timeline" className="bg-black text-white px-6 py-2 rounded text-center hover:bg-gray-800">
               View Timeline

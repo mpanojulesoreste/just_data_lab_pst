@@ -30,7 +30,7 @@ const TimelineSection = ({ title, events }) => {
   return (
     <div className="mb-8">
       <button
-        className="w-full text-left font-bold text-xl mb-4 bg-gray-200 p-2 rounded"
+        className="w-full text-left font-bold text-xl mb-4 bg-gray p-4 rounded shadow-md hover:bg-gray-100 transition-colors duration-200"
         onClick={() => setIsOpen(!isOpen)}
       >
         {title}
