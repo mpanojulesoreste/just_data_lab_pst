@@ -1,0 +1,97 @@
+{
+    "img1": {
+      "title": "Encampent Demands",
+      "images": [
+        "/pictures/demands/demand1.jpg",
+        "/pictures/demands/demand2.jpg",
+        "/pictures/demands/demand3.jpg",
+        "/pictures/demands/demand4.jpg",
+        "/pictures/demands/demand5.jpg",
+        "/pictures/demands/all_demands.jpg"
+      ],
+      "descriptions": [
+        "Poster of the 2024 1st Encampent Demand",
+        "Poster of the 2024 2nd Encampent Demand",
+        "Poster of the 2024 3rd Encampent Demand",
+        "Poster of the 2024 4th Encampent Demand",
+        "Poster of the 2024 5th Encampent Demand",
+        "All 2024 Encampent Demands Posters at the Encampent"
+      ]
+    },
+    "img2": {
+      "title": "Encampent Posters and Materials",
+      "images": [
+        "/pictures/materials/materials1.jpg",
+        "/pictures/materials/materials2.jpg",  
+        "/pictures/materials/materials3.jpg", 
+        "/pictures/materials/materials4.jpg",
+        "/pictures/materials/materials5.jpg",
+        "/pictures/materials/materials6.jpg",
+        "/pictures/materials/materials7.jpg", 
+        "/pictures/materials/materials8.jpg",
+        "/pictures/materials/materials9.jpg",
+        "/pictures/materials/materials10.jpg",
+        "/pictures/materials/materials11.jpg",
+        "/pictures/materials/materials12.jpg",  
+        "/pictures/materials/materials13.jpg", 
+        "/pictures/materials/materials14.jpg",
+        "/pictures/materials/materials15.jpg",
+        "/pictures/materials/materials16.jpg",
+        "/pictures/materials/materials17.jpg", 
+        "/pictures/materials/materials18.jpg",
+        "/pictures/materials/materials19.jpg",
+        "/pictures/materials/materials20.jpg",  
+        "/pictures/materials/materials21.jpg",
+        "/pictures/materials/materials22.jpg",  
+        "/pictures/materials/materials23.jpg", 
+        "/pictures/materials/materials24.jpg",
+        "/pictures/materials/materials25.jpg",
+        "/pictures/materials/materials26.jpg",
+        "/pictures/materials/materials27.jpg", 
+        "/pictures/materials/materials28.jpg",
+        "/pictures/materials/materials29.jpg",
+        "/pictures/materials/materials30.jpg", 
+        "/pictures/materials/materials31.jpg",
+        "/pictures/materials/materials32.jpg",  
+        "/pictures/materials/materials33.jpg", 
+        "/pictures/materials/materials34.jpg",
+        "/pictures/materials/materials35.jpg",
+        "/pictures/materials/materials36.jpg",
+        "/pictures/materials/materials37.jpg", 
+        "/pictures/materials/materials38.jpg",
+        "/pictures/materials/materials39.jpg",
+        "/pictures/materials/materials40.jpg",  
+        "/pictures/materials/materials41.jpg",
+        "/pictures/materials/materials42.jpg",  
+        "/pictures/materials/materials43.jpg", 
+        "/pictures/materials/materials44.jpg",                                                                             
+        "/pictures/materials/materials45.jpg"
+      ],
+      "descriptions": [
+        "Ropes and Clips used to hang pictures and posters",
+        "Ropes and Clips used to hang pictures and posters"
+      ]
+    },
+    "img3": {
+      "title": "Encampent Posters and Materials",
+      "images": [
+        "/pictures/folder1-1.jpg",                                                                      
+        "/pictures/folder1-3.jpg"
+      ],
+      "descriptions": [
+        "Students marching through campus",
+        "Rally speakers addressing the crowd"
+      ]
+    },
+    "img4": {
+      "title": "Encampent Posters and Materials",
+      "images": [
+        "/pictures/folder1-1.jpg",                                                                      
+        "/pictures/folder1-3.jpg"
+      ],
+      "descriptions": [
+        "Students marching through campus",
+        "Rally speakers addressing the crowd"
+      ]
+    }
+  }

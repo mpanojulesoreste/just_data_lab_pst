@@ -1,0 +1,32 @@
+{
+    "audio1": {
+      "title": "The Sit In (April 29, 2024)",
+      "audioUrl": "/audio/audio1.mp3",
+      "duration": "15:30",
+      "description": "At one of the doors being blocked by protesters. This voice memo captures chants by students along with the reading of student demands and Palestinian poetry by Max Weiss and other faculty."
+    },
+    "audio2": {
+      "title": "Drumming in the Encampment (April 28, 2024)",
+      "audioUrl": "/audio/audio2.mp3",
+      "duration": "10:45",
+      "description": "Students use buckets and sticks as makeshift drums to create beats in the encampment in a period with no specific programming."
+    },
+    "audio3": {
+      "title": "Chris Hedges (April 28, 2024) - Sermon on Palestine)",
+      "audioUrl": "/audio/audio3.mp3",
+      "duration": "10:45",
+      "description": "Chris Hedges gives a sermon at the Popular University for Gaza (first location) as a part of an inter-religious ceremony on a Sunday. This is a voice memo that captures his sermon."
+    },
+    "audio4": {
+      "title": "Larry Hamm and Josh Guild (April 25, 2024)",
+      "audioUrl": "/audio/audio4.mp3",
+      "duration": "10:45",
+      "description": "Larry Hamm and Josh Guild (along w/ the Faculty for Justice in Palestine) the Popular University for Gaza (first location) as guest speakers on April 25, 2024 in McCosh Courtyard. This is a voice memo that captures Mr. Hamm’s speech and Professor Guild on behalf of the Faculty for Justice in Palestine."
+    },
+    "audio5": {
+      "title": "The Last Hours of the Encampment (May 15, 2024)",
+      "audioUrl": "/audio/audio5.mp3",
+      "duration": "10:45",
+      "description": "A voice memo from the final night of the encampment before the school vowed to kick students off of Canon Green in order to set up for Graduation Day."
+    }
+  }

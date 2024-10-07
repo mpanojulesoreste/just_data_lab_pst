@@ -7,8 +7,8 @@ import Navigation from './Navigation';
 
 
 const ImageModal = ({ src, alt, onClose }) => (
-  <div className="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4" onClick={onClose}>
-    <div className="relative max-w-4xl w-full h-full" onClick={e => e.stopPropagation()}>
+  <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50" onClick={onClose}>
+    <div className="relative w-full h-full max-w-4xl max-h-4xl" onClick={e => e.stopPropagation()}>
       <Image
         src={src}
         alt={alt}
@@ -43,12 +43,12 @@ const TimelineEvent = ({ date, description, images, index }) => {
           <p className="text-black">{description}</p>
         </div>
       </div>
-      <div className="w-full md:w-1/2 mt-4 md:mt-0 flex justify-center">
-        <div className="grid grid-cols-2 gap-4 w-full">
+      <div className="w-full md:w-1/2 mt-4 md:mt-0">
+        <div className="grid grid-cols-2 gap-2">
           {images && images.map((img, imgIndex) => (
             <div 
               key={imgIndex} 
-              className="relative w-full h-40 bg-gray-200 rounded-lg overflow-hidden cursor-pointer"
+              className="relative aspect-square overflow-hidden rounded-lg cursor-pointer"
               onClick={() => setSelectedImage(img)}
             >
               <Image

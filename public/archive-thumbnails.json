@@ -1,0 +1,105 @@
+{
+    "images": [
+      {
+        "id": "img1",
+        "thumbnail": "/placeholders/picture-1.jpg",
+        "description": "Posters and Banners of 2024 Encampment Demands",
+        "folder": "Encampment Demands"
+      },
+      {
+        "id": "img2",
+        "thumbnail": "/placeholders/picture-2.jpg",
+        "description": "Posters and Materials used during the 2024 Encampment",
+        "folder": "Encampment Posters and Materials"
+      },
+      {
+        "id": "img3",
+        "thumbnail": "/placeholders/picture-3.jpg",
+        "description": "Posters Created by Young Children for the 2024 Encampment",
+        "folder": "Posters by Young Children"
+      },
+      {
+        "id": "img4",
+        "thumbnail": "/placeholders/picture-4.jpg",
+        "description": "Artistic Creations by the 2024 Encampment Participants",
+        "folder": "The 2024 Encampment Art"
+      },
+    {
+        "id": "img5",
+        "thumbnail": "/placeholders/picture-5.jpg",
+        "description": "Pictures of Daily Life at the 2024 Encampment",
+        "folder": "The 2024 Encampment Daily Life"
+    },
+    {
+        "id": "img6",
+        "thumbnail": "/placeholders/picture-6.jpg",
+        "description": "Pictures Taken during Different Rallies and Marches on Campus",
+        "folder": "Rallies and Marches on Campus in 2024"
+    },
+    {
+        "id": "img7",
+        "thumbnail": "/placeholders/picture-7.jpg",
+        "description": "Pictures Taken on April, 29th, 2024 during a Sit-in at Clio Hall",
+        "folder": "Clio Hall Sit-in"
+    }, 
+    {
+        "id": "img8",
+        "thumbnail": "/placeholders/picture-8.jpg",
+        "description": "Pictures Taken during the 2024 Encampment Hunger Strike",
+        "folder": "Hung Strike"
+    },
+    {
+        "id": "img9",
+        "thumbnail": "/placeholders/picture-10.jpg",
+        "description": "Pictures Taken on the Last Day of the 2024 Encampment",
+        "folder": "Last Day of the Encampment"
+    },
+    {
+        "id": "img10",
+        "thumbnail": "/placeholders/picture-11.jpg",
+        "description": "Pictures Taken during the 2024 Reunions Rallies and Protests",
+        "folder": "The 2024 Reunions"
+    }
+
+
+
+    
+
+
+
+
+
+    ],
+    "audio": [
+      {
+        "id": "audio1",
+        "thumbnail": "/placeholders/audio-0.jpg",
+        "description": "The Sit In (April 29, 2024)",
+        "folder": "Encampent Voice Memos"
+      },
+      {
+        "id": "audio2",
+        "thumbnail": "/placeholders/audio-1.jpg",
+        "description": "Drumming in the Encampment (April 28, 2024)",
+        "folder": "Encampent Voice Memos"
+      },
+      {
+        "id": "audio3",
+        "thumbnail": "/placeholders/audio-2.jpg",
+        "description": "Chris Hedges (April 28, 2024) - Sermon on Palestine)",
+        "folder": "Encampent Voice Memos"
+      },
+      {
+        "id": "audio4",
+        "thumbnail": "/placeholders/audio-3.jpg",
+        "description": "Larry Hamm and Josh Guild (April 25, 2024)",
+        "folder": "Encampent Voice Memos"
+      },
+      {
+        "id": "audio5",
+        "thumbnail": "/placeholders/audio-4.jpg",
+        "description": "The Last Hours of the Encampment (May 15, 2024)",
+        "folder": "Encampent Voice Memos"
+      }
+    ]
+  }
