@@ -73,25 +73,101 @@
       ]
     },
     "img3": {
-      "title": "Encampent Posters and Materials",
+      "title": "Posters by Young Children",
       "images": [
-        "/pictures/folder1-1.jpg",                                                                      
-        "/pictures/folder1-3.jpg"
+        "/pictures/kids_posters/kids_posters1.jpg",                                                                      
+        "/pictures/kids_posters/kids_posters2.jpg",
+        "/pictures/kids_posters/kids_posters3.jpg", 
+        "/pictures/kids_posters/kids_posters4.jpg", 
+        "/pictures/kids_posters/kids_posters5.jpg", 
+        "/pictures/kids_posters/kids_posters6.jpg", 
+        "/pictures/kids_posters/kids_posters7.jpg", 
+        "/pictures/kids_posters/kids_posters8.jpg", 
+        "/pictures/kids_posters/kids_posters9.jpg", 
+        "/pictures/kids_posters/kids_posters10.jpg"
       ],
       "descriptions": [
-        "Students marching through campus",
-        "Rally speakers addressing the crowd"
+        "Free Palestine, It's gonna be free",
+        "Palestinian Flag"
       ]
     },
     "img4": {
-      "title": "Encampent Posters and Materials",
+      "title": "The 2024 Encampment Art",
       "images": [
-        "/pictures/folder1-1.jpg",                                                                      
-        "/pictures/folder1-3.jpg"
+        "/pictures/encmpment_art/encampment_art1.jpg",
+        "/pictures/encmpment_art/encampment_art2.jpg",
+        "/pictures/encmpment_art/encampment_art3.jpg",
+        "/pictures/encmpment_art/encampment_art4.jpg",                                                                      
+        "/pictures/encmpment_art/encampment_art5.jpg"
       ],
       "descriptions": [
-        "Students marching through campus",
-        "Rally speakers addressing the crowd"
+        "minutes for Arrests, Silences"
+      ]
+    },
+    "img5": {
+      "title": "The 2024 Encampment Daily Life",
+      "images": [
+        "/pictures/daily_life/daily_life1.jpg",
+        "/pictures/daily_life/daily_life2.jpg",
+        "/pictures/daily_life/daily_life3.jpg"
+      ],
+      "descriptions": [
+        "Credit to Muhammad Razi Hussain",
+        "Credit to Muhammad Razi Hussain",
+        "Credit to Muhammad Razi Hussain"
+      ]
+    },
+    "img6": {
+      "title": "Ralies and Marches on Campus in 2024",
+      "images": [
+        "/pictures/rallies/rallies_1.jpg",
+        "/pictures/rallies/rallies_2.jpg",
+        "/pictures/rallies/rallies_3.jpg",
+        "/pictures/rallies/rallies_4.jpg",
+        "/pictures/rallies/rallies_5.jpg"
+      ],
+      "descriptions": [
+        "Credit to Muhammad Razi Hussain",
+        "Credit to Muhammad Razi Hussain",
+        "Credit to Muhammad Razi Hussain",
+        "Credit to Muhammad Razi Hussain",
+        "Credit to Muhammad Razi Hussain"
+      ]
+    },
+    "img7": {
+      "title": "Clio Hall Sit-in",
+      "images": [
+        "/pictures/clio-sit-in/clio_sitin1.jpg"
+      ],
+      "descriptions": [
+        "Pictures Taken on April, 29th, 2024 during a Sit-in at Clio Hall, more to come"
+      ]
+    },
+    "img8": {
+      "title": "2024 Encampment Hunger Strike",
+      "images": [
+        "/pictures/Hunge-strike/hunger_strike1.jpg"
+      ],
+      "descriptions": [
+        "Pictures Taken during the2024 Encampment Hunger Strike, more to come"
+      ]
+    },
+    "img9": {
+      "title": "Last Day of the Encampment",
+      "images": [
+        "/pictures/lastday/last_day1.jpg"
+      ],
+      "descriptions": [
+        "Pictures Taken on the Last Day of the 2024 Encampment, more to come"
+      ]
+    },
+    "img10": {
+      "title": "The 2024 Reunions Rallies and Protests",
+      "images": [
+        "/pictures/reunions/reunions.jpg"
+      ],
+      "descriptions": [
+        "Pictures Taken during the 2024 Reunions Rallies and Protests, more to come"
       ]
     }
   }
